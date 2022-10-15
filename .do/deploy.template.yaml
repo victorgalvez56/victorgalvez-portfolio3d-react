@@ -5,5 +5,5 @@ spec:
     environment_slug: node-js
     git:
       branch: main
-      repo_clone_url: https://github.com/digitalocean/victorgalvez-portfolio3d-react.git
+      repo_clone_url: https://github.com/victorgalvez56/victorgalvez-portfolio3d-react.git
     name: victorgalvez-portfolio3d-react
